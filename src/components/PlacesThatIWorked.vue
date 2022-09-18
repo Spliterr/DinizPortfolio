@@ -1,5 +1,8 @@
 <template>
-  <section id="companies" class="skills has-background-white-ter p-5">
+  <section
+    id="companies"
+    class="skills has-background-white-ter pt-6 pr-6 pl-6"
+  >
     <div class="container">
       <h1 class="eurostile-title title has-text-centered">
         Lugares que trabalhei:
@@ -60,17 +63,21 @@
     </div>
 
     <Modal v-if="showModal" :carouselId="id" @close="showModal = false"></Modal>
+
+    <work-together></work-together>
   </section>
 </template>
 
 <script>
 import Modal from "../components/ModalWorkPlaces.vue";
+import WorkTogether from "./WorkTogether.vue";
 
 export default {
   name: "PlacesThatIWorked",
 
   components: {
     Modal,
+    WorkTogether,
   },
   data() {
     return {

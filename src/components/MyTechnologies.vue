@@ -129,5 +129,13 @@ li {
   .mb-7 {
     margin-bottom: 5rem;
   }
+
+  .card-border-center {
+    border-right: 0px solid #e6ecf8;
+    border-left: 0px solid #e6ecf8;
+    background-color: white;
+    border-top: 1px solid #e6ecf8;
+    border-bottom: 1px solid #e6ecf8;
+  }
 }
 </style>

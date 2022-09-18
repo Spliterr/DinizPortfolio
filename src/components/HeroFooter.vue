@@ -2,7 +2,7 @@
   <footer
     class="section is-primary is-small has-text-centered has-background-info"
   >
-    <div class="container">
+    <div class="container mt-6">
       <figure class="mb-3">
         <a href="#">
           <img
