@@ -15,7 +15,9 @@
             <div class="card">
               <div class="card-image">
                 <figure class="image is-5by4">
-                  <a @click="info(list.index)"><img :src="list.image" /></a>
+                  <a @click="info(list.index)"
+                    ><img :src="list.image" :alt="list.title"
+                  /></a>
                 </figure>
               </div>
               <div class="card-content">
