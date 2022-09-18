@@ -46,13 +46,13 @@ export default {
       items: [
         {
           title: "Lopes - Desenvolvimento de software",
-          image: "src/assets/bglopes.png",
+          image: "/img/bglopes.png",
           subtitle:
             "Colaborei em uma equipe voltada para serviços free-lances em aplicações web",
         },
         {
           title: "Bocado",
-          image: "src/assets/bgbocado.jpg",
+          image: "/img/bgbocado.jpg",
           subtitle:
             "Colaborei no desenvolvimento de uma aplicação web para gerenciar os dados do App.",
         },

@@ -2,7 +2,7 @@
   <b-navbar class="container">
     <template #brand>
       <b-navbar-item>
-        <img src="../assets/logotipofelipeFundoTransparente.png" alt="" />
+        <img src="/img/logotipofelipeFundoTransparente.png" alt="" />
       </b-navbar-item>
     </template>
 

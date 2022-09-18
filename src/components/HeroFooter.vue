@@ -7,7 +7,7 @@
         <a href="#">
           <img
             class="has-background-white-ter img-logo is-centered"
-            src="../assets/logo-diniz.png"
+            src="/img/logo-diniz.png"
             alt="Felipe Diniz | Front-end Developer"
         /></a>
       </figure>

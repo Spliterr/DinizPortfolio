@@ -11,7 +11,7 @@
             <figure class="image">
               <img
                 class="img-job"
-                src="../assets/bglopes.png"
+                src="/img/bglopes.png"
                 alt="Placeholder image"
               />
               <b-button
@@ -27,7 +27,7 @@
             <figure class="image">
               <img
                 class="img-job"
-                src="../assets/bg-bocado-small.webp"
+                src="/img/bg-bocado-small.webp"
                 alt="Placeholder image"
               />
               <b-button
@@ -43,7 +43,7 @@
             <figure class="image">
               <img
                 class="img-job"
-                src="../assets/bgfastsolutions.png"
+                src="/img/bgfastsolutions.png"
                 alt="Placeholder image"
               />
               <b-button

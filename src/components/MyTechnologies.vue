@@ -7,11 +7,7 @@
             <div class="column card-border-left">
               <div class="card-content">
                 <div class="content has-text-centered">
-                  <img
-                    class="is-centered"
-                    src="../assets/engineer.png"
-                    alt=""
-                  />
+                  <img class="is-centered" src="/img/engineer.png" alt="" />
                   <div class="has-text-dark has-text-centered">
                     <h1 class="eurostile-title is-size-4 is-spaced">
                       Desenvolvimento
@@ -40,7 +36,7 @@
             <div class="column card-border-center">
               <div class="card-content">
                 <div class="content has-text-centered">
-                  <img class="is-centered" src="../assets/code.png" alt="" />
+                  <img class="is-centered" src="/img/code.png" alt="" />
                   <div class="has-text-dark has-text-centered">
                     <h1 class="eurostile-title is-size-4 is-spaced">
                       Front-end Developer
@@ -70,7 +66,7 @@
                 <div class="content has-text-centered">
                   <img
                     class="is-centered"
-                    src="../assets/data-management.png"
+                    src="/img/data-management.png"
                     alt=""
                   />
                   <div class="has-text-dark">
