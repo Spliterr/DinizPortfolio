@@ -41,11 +41,7 @@
         >
           <i class="mdi mdi-email mdi-24px p-2 social-icons"></i>
         </a>
-        <a
-          class="mr-3"
-          href="https://www.linkedin.com/in/felipe-soares-diniz/"
-          target="_blank"
-        >
+        <a class="mr-3" href="https://github.com/Spliterr" target="_blank">
           <i class="mdi mdi-github mdi-24px p-2 social-icons"></i>
         </a>
       </div>
