@@ -44,19 +44,19 @@ export default {
       items: [
         {
           title: "Lopes - Desenvolvimento de software",
-          image: "src/assets/bg-lopes.png",
+          image: "../assets/bg-lopes.png",
           subtitle:
             "Colaborei em uma equipe voltada para serviços free-lances em aplicações web",
         },
         {
           title: "Bocado",
-          image: "src/assets/bg-bocado.jpg",
+          image: "../assets/bg-bocado.jpg",
           subtitle:
             "Colaborei no desenvolvimento de uma aplicação web para gerenciar os dados do App.",
         },
         {
           title: "Fast Solutions",
-          image: "src/assets/bg-fastsolutions.png",
+          image: "../assets/bg-fastsolutions.png",
           subtitle:
             "Realizo o desenvolvimento de uma aplicação web para administrar serviços de print, para clientes e colaboradores.",
         },
