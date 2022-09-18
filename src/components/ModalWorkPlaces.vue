@@ -58,7 +58,7 @@ export default {
         },
         {
           title: "Fast Solutions",
-          image: "public/img/bgfastsolutions.png",
+          image: "/img/bgfastsolutions.png",
           subtitle:
             "Realizo o desenvolvimento de uma aplicação web para administrar serviços de print, para clientes e colaboradores.",
         },
